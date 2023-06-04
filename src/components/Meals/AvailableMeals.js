@@ -27,6 +27,18 @@ const DUMMY_MEALS = [
     description: "Healthy...and green...",
     price: 18.99,
   },
+  {
+    id: "m5",
+    name: "Kebab",
+    description: "Enemey of Diet",
+    price: 20,
+  },
+  {
+    id: "m6",
+    name: "Döner",
+    description: "Classical Turkish Style",
+    price: 15.99,
+  },
 ];
 
 const AvailableMeals = () => {
