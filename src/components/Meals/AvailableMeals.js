@@ -30,7 +30,7 @@ const DUMMY_MEALS = [
   {
     id: "m5",
     name: "Kebab",
-    description: "Enemey of Diet",
+    description: "Enemy of Diet",
     price: 20,
   },
   {
@@ -38,6 +38,12 @@ const DUMMY_MEALS = [
     name: "Döner",
     description: "Classical Turkish Style",
     price: 15.99,
+  },
+   {
+    id: "m7",
+    name: "Baklava",
+    description: "Turkish Dessert",
+    price: 29.99,
   },
 ];
 
